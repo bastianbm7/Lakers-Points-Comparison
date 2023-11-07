@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Data
+data/NBA_PBP_2017-18.csv
+data/NBA_PBP_2018-19.csv
+data/NBA_PBP_2019-20.csv
+
+
 # Distribution / packaging
 .Python
 build/
